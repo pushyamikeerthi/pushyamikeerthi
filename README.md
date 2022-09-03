@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Pushyami Keerthi</h1>
-<h3 align="center">A Aspiring Data Analyst</h3> 
+<h3 align="center">An Aspiring Data Analyst</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushyamikeerthi&label=Profile%20views&color=0e75b6&style=flat" alt="pushyamikeerthi" /> </p>
