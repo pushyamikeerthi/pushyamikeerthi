@@ -1,8 +1,6 @@
 
-<! add banner (use your links) : [![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Pushyami Keerthi</h1>
-<h3 align="center">A Aspiring Data Analyst</h3>
-<! img align="right" alt="Coding" width="400" src="https://onlinejobfromhome.com/wp-content/uploads/2022/04/Data-Analyst-1.gif") 
+<h3 align="center">A Aspiring Data Analyst</h3> 
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pushyamikeerthi&label=Profile%20views&color=0e75b6&style=flat" alt="pushyamikeerthi" /> </p>
