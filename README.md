@@ -21,7 +21,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pushyamikeerthi&show_icons=true&locale=en" alt="pushyamikeerthi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pushyamikeerthi&" alt="pushyamikeerthi" /></p>
-![image](https://user-images.githubusercontent.com/55576839/188261458-690d1273-4636-494a-abe5-6ae5159922b5.png)
+
 
 
 
